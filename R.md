@@ -5,4 +5,4 @@ mean<- data.mean()
 ```
 > Coffee. The finest organic suspension ever devised... I beat the Borg with it.
 > - Captain Janeway
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://github.com/JohnAdamSmith/testpage/blob/master/seashell.png)
