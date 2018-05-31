@@ -5,4 +5,5 @@ mean<- data.mean()
 ```
 > Coffee. The finest organic suspension ever devised... I beat the Borg with it.
 > - Captain Janeway
+##Conditional propability made funny
 ![Image of Yaktocat](https://github.com/JohnAdamSmith/testpage/blob/master/seashell.png)
